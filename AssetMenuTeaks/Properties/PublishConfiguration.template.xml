@@ -34,5 +34,5 @@
 	<ExternalLink Type="github" Url="https://github.com/lucarager/CS2-AssetMenuTweaks" />
 	<ExternalLink Type="twitch" Url="https://twitch.tv/lucadevdesign" />
 	<!--Supported values Public, Private, Unlisted-->
-	<AccessLevel Value="Unlisted" />
+	<AccessLevel Value="Public" />
 </Publish>
