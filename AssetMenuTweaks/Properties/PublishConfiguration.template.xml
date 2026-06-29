@@ -32,6 +32,7 @@
 	<ExternalLink Type="kofi" Url="https://ko-fi.com/lucadevdesign" />
 	<ExternalLink Type="discord" Url="https://discord.gg/C2XQUYHwuV" />
 	<ExternalLink Type="github" Url="https://github.com/lucarager/CS2-AssetMenuTweaks" />
+	<ExternalLink Type="crowdin" Url="https://crowdin.com/project/assetmenutweaks-cs2" />
 	<ExternalLink Type="twitch" Url="https://twitch.tv/lucadevdesign" />
 	<!--Supported values Public, Private, Unlisted-->
 	<AccessLevel Value="Public" />
